@@ -35,6 +35,10 @@
 
 @media (max-width:768px){
     .user-elem{
-        width: 40%;
+        width: 35%;
     }
+    .user-elem p{
+        font-size: 12px;
+    }
+
 }

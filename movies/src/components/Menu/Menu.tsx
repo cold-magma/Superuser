@@ -21,7 +21,7 @@ const Menu:React.FC = () => {
                 <div className="navbar-separator"></div>
                 <div className="navbar-links">
                     <ul className="navbar-links-list">
-                        <li><a className="navbar-links-a" href="#">HOME</a></li>
+                        <li><a className="navbar-links-a" href="#">USERS</a></li>
                         <li><a className="navbar-links-a" href="#">PROFILE</a></li>
                         <li><a className="navbar-links-a" href="#">LOGOUT</a></li>
                     </ul>
